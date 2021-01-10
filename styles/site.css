@@ -1,0 +1,52 @@
+h1 {
+  color: chartreuse;
+  font-family: monospace;
+}
+p {
+  color: blue;
+  font-style: italic;
+  font-size: 20px;
+}
+h2 {
+  color: chartreuse;
+}
+ul {
+  color: blue;
+  font-style: italic;
+  font-size: 20px;
+}
+body {
+  background-color: black;
+}
+p {
+  -webkit-tap-highlight-color: chartreuse;
+}
+:hover p2 {
+  color: chartreuse;
+}
+p2 {
+  color: blue;
+}
+a {
+  color: blue(55, 0, 255);
+}
+p2 :hover {
+  color: chartreuse;
+}
+p3 :hover {
+  color: blue;
+}
+p3 {
+}
+p4 :hover {
+  color: chartreuse;
+}
+p5 {
+  color: blue;
+}
+p6 :hover {
+  color: chartreuse;
+}
+h3 {
+  color: rgb(0, 19, 189);
+}
